@@ -8,6 +8,7 @@ class Solution {
                 return new int[] {res.get(y), i};
             }
             res.put(x, i);
+            
         }
     }
 }
