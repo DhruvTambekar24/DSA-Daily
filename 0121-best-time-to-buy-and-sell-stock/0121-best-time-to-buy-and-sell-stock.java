@@ -4,8 +4,8 @@ class Solution {
         for (int i : prices) {
             res = Math.max(res, i - k);
             k = Math.min(k, i);
-            
         }
+        
         return res;
     }
 }
