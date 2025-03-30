@@ -11,8 +11,6 @@ class Solution {
                 j += 2;
             }
         }
-        
-        
         return res;
     }
 }
