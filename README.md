@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -102,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
