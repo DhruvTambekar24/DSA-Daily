@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 ## Math
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
