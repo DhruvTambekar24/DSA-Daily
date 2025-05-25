@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3321-type-of-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3321-type-of-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
