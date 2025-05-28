@@ -2,13 +2,27 @@ import java.util.HashMap;
 class Solution {
     public int majorityElement(int[] nums) {
        int n = nums.length;
-       HashMap<Integer, Integer> map = new HashMap<>();
-       for(int i : nums){
-        map.put(i,map.getOrDefault(i,0)+1);
-        if (map.get(i) > n/2) {
-                return i;
-            }
+       int cnt = 0;
+       int ele=0;
+       for(int i=0;i<n;i++){
+        if(cnt==0){
+            cnt=1;
+            ele = nums[i];
+        }
+        else if(nums[i]==ele){
+            cnt++;
+        }
+        else{
+            cnt--;
+        }
        }
+       int count = 0;
+       for(int i=0;i<n;i++){
+        if(nums[i]==ele){
+            count++;
+        }
+       }
+       if(count>n/2) return ele;
        return -1;
     }
 }
