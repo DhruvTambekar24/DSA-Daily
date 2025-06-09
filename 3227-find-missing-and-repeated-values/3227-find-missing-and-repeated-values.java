@@ -1,23 +1,23 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
-       int[] ans = new int[2];
        int n = grid.length;
-       int k = n*n;
-       int[] cnt = new int[k+1];
-       for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++){
-         int m = grid[i][j];
-         cnt[m]=cnt[m]+1;
+        long N = (long) n * n;
+        long Sn = N * (N + 1) / 2;           
+        long S2n = N * (N + 1) * (2 * N + 1) / 6;
+        long S = 0;
+        long S2 = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                long val = grid[i][j];
+                S += val;
+                S2 += val * val;
+            }
         }
-       }
-       for(int i=1;i<=k;i++){
-        if(cnt[i]==0){
-            ans[1]=i;
-        }
-        if(cnt[i]==2){
-            ans[0]=i;
-        }
-       }
-       return ans;
+        long val1 = S - Sn;         
+        long val2 = S2 - S2n;       
+        long sumXY = val2 / val1;   
+        long x = (val1 + sumXY) / 2;
+        long y = x - val1;
+        return new int[]{(int) x, (int) y};
     }
 }
