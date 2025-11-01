@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
