@@ -1,17 +1,20 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        int n=nums.length;
-        int low=0;
-        int high=n-1;
+        int n  = nums.length;
+        int low = 0;
+        int high = n-1;
         while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[mid]==target) return true;
-            if(nums[low] == nums[mid] && nums[mid] == nums[high]) {
-                low++;
-                high--;
+            int mid = (low+high)/2;
+            if(nums[mid]==target){
+                return true;
             }
-            else if(nums[low]<=nums[mid]){
-                if(nums[low]<=target && target<nums[mid]){
+            if(nums[low]==nums[mid] && nums[mid]==nums[high]){
+                low=low+1;
+                high=high-1;
+                continue;
+            }
+            if(nums[low]<=nums[mid]){
+                if(nums[low]<=target && nums[mid]>=target){
                     high=mid-1;
                 }
                 else{
@@ -19,7 +22,7 @@ class Solution {
                 }
             }
             else{
-                if(nums[mid]<=target && target<=nums[high]){
+                if(nums[high]>=target && nums[mid]<=target){
                     low=mid+1;
                 }
                 else{
