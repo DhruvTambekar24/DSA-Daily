@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1917-maximum-average-pass-ratio) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
