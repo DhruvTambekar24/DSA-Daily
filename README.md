@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1200-minimum-absolute-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [1200-minimum-absolute-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
