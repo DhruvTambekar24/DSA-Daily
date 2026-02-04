@@ -322,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1021-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
