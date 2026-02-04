@@ -1,6 +1,10 @@
-select p.FirstName, p.LastName, a.City, a.State from person p
-join address a on p.personid = a.personid
-union
-select p.FirstName, p.LastName, null as City, null as State from person p
-where not exists (select 1 from address a where p.personid = a.personid)
+SELECT 
+    p.firstName,
+    p.lastName,
+    a.city,
+    a.state
+FROM Person p
+LEFT JOIN Address a
+ON p.personId = a.personId;
+
  
