@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [1200-minimum-absolute-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1917-maximum-average-pass-ratio) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
@@ -344,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
