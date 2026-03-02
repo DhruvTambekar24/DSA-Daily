@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
