@@ -12,10 +12,11 @@
 public class Solution {
     public boolean hasCycle(ListNode head) {
         Set<ListNode> s = new HashSet<>();
-        for (; head != null; head = head.next) {
+        while(head != null){
             if (!s.add(head)) {
                 return true;
             }
+            head=head.next;
         }
         return false;
     }
