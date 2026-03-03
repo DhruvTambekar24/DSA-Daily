@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0054-spiral-matrix) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2288-count-operations-to-obtain-zero) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0203-remove-linked-list-elements) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |
 | ------- |
