@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |
