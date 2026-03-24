@@ -20,7 +20,7 @@ class Solution {
              ptr=ptr.next;
         }
         ptr.next=head;
-        k=k%i; //i-->size , no extra rotations
+        k=k%i; 
         int newHead =i-k;
         ListNode tail=head;
         for(int j=1 ;j<newHead;j++){
