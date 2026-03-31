@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1922-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2288-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1922-count-good-numbers) |
 ## String Matching
 |  |
 | ------- |
