@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
