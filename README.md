@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2075-decode-the-slanted-ciphertext) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bucket Sort
 |  |
 | ------- |
