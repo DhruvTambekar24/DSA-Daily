@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1922-count-good-numbers) |
