@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
