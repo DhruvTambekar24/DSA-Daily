@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Simulation
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Indexed Tree
 |  |
