@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
