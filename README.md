@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0229-majority-element-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
