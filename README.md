@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
