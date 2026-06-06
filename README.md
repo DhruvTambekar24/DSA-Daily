@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2540-minimum-common-value](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2549-count-distinct-numbers-on-board) |
+| [2574-left-and-right-sum-differences](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
+| [2574-left-and-right-sum-differences](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Indexed Tree
 |  |
