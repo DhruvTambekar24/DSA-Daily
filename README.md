@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0930-binary-subarrays-with-sum) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1917-maximum-average-pass-ratio) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -597,4 +601,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
