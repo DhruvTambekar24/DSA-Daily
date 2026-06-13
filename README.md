@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 ## Linked List
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
