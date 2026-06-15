@@ -63,5 +63,5 @@ class Solution {
         }
         return startNode;
     }
-    
+
 }
