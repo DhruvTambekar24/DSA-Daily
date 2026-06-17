@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
@@ -484,11 +487,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0102-binary-tree-level-order-traversal) |
