@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1486-xor-operation-in-an-array) |
