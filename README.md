@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-find-the-highest-altitude](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1340-jump-game-v) |
+| [1833-maximum-ice-cream-bars](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2126-destroying-asteroids) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1833-maximum-ice-cream-bars](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1917-maximum-average-pass-ratio) |
@@ -731,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0901-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
