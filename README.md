@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2784-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
