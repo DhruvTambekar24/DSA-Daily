@@ -15,19 +15,19 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
-        HashSet<Integer> set=new HashSet<Integer>();
-        traverse(root,set);
-        int[] arr=set.stream().mapToInt(Integer::intValue).toArray();
-        Arrays.sort(arr);
-        return arr[k-1];
-    }
-    public void traverse(TreeNode root,HashSet set){
-        set.add(root.val);
-        if(root.right!=null){
-            traverse(root.right,set);
+        Stack<TreeNode> st=new Stack<>();
+        while(root!=null || !st.isEmpty()){
+            while(root!=null){
+                st.push(root);
+                root=root.left;
+            }
+            root=st.pop();
+            k--;
+            if(k==0){
+                return root.val;
+            }
+            root=root.right;
         }
-        if(root.left!=null){
-            traverse(root.left,set);
-        }
+        return -1;
     }
 }
