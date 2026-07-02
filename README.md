@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3321-type-of-triangle) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [1917-maximum-average-pass-ratio](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1917-maximum-average-pass-ratio) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Geometry
@@ -800,4 +804,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
