@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3612-process-string-with-special-operations-i) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Backtracking
 |  |
