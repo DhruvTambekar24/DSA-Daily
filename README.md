@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2784-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Backtracking
 |  |
