@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3321-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
