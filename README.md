@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
