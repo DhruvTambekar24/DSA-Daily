@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1917-maximum-average-pass-ratio) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
