@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3321-type-of-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3483-unique-3-digit-even-numbers) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3321-type-of-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
