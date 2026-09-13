@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0835-image-overlap) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
