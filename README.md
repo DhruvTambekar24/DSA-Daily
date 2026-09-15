@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0876-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1340-jump-game-v) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1539-kth-missing-positive-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2540-minimum-common-value) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1340-jump-game-v) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1833-maximum-ice-cream-bars](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
