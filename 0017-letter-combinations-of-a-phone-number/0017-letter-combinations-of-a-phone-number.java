@@ -1,46 +1,21 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-        List<String> combinations = new ArrayList<>();
-
-        if (digits.length() == 0) {
-            return combinations;
+        List<String> res=new ArrayList<>();
+        if(digits.length()==0){
+            return res;
         }
-        String[] digitMapping = new String[]{
-            "",    
-            "",    
-            "abc", 
-            "def", 
-            "ghi", 
-            "jkl", 
-            "mno", 
-            "pqrs",
-            "tuv", 
-            "wxyz" 
-        };
-
-        backtrack(0, new StringBuilder(), digits, digitMapping, combinations);
-
-        return combinations;
-    }
-
-    private void backtrack(int index, StringBuilder path, String digits, String[] letters, List<String> combinations) {
-        
-        if (path.length() == digits.length()) {
-            combinations.add(path.toString());
-            return; 
-        }
-
-        String possibleLetters = letters[digits.charAt(index) - '0'];
-
-        if (possibleLetters != null) {
-            for (int i = 0; i < possibleLetters.length(); i++) {
-
-                path.append(possibleLetters.charAt(i));
-
-                backtrack(index + 1, path, digits, letters, combinations);
-
-                path.deleteCharAt(path.length() - 1);
+        String[] map={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        res.add("");
+        for(int i=0;i<digits.length();i++){
+            String letters=map[digits.charAt(i)-'0'];
+            List<String> temp=new ArrayList<>();
+            for(String str:res){
+                for(int j=0;j<letters.length();j++){
+                    temp.add(str+letters.charAt(j));
+                }
             }
+            res=temp;
         }
+        return res;
     }
 }
