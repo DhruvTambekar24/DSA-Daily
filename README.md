@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3612-process-string-with-special-operations-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3614-process-string-with-special-operations-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
