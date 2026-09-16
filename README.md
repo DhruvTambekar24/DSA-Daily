@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0242-valid-anagram) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1980-find-unique-binary-string) |
