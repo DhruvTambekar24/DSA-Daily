@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
@@ -911,4 +913,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
