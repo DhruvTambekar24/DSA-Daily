@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0152-maximum-product-subarray) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0152-maximum-product-subarray) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
