@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0260-single-number-iii) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0654-maximum-binary-tree) |
