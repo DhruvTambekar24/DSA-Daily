@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3524-find-x-value-of-array-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3524-find-x-value-of-array-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3321-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3524-find-x-value-of-array-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3524-find-x-value-of-array-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
