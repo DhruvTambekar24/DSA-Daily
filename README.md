@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2549-count-distinct-numbers-on-board) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3498-reverse-degree-of-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3838-weighted-word-mapping) |
