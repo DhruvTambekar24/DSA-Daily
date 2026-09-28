@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0931-minimum-falling-path-sum) |
 | [1340-jump-game-v](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1340-jump-game-v) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0931-minimum-falling-path-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
