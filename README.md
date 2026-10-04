@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0792-binary-search) |
 | [0835-image-overlap](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0875-koko-eating-bananas) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
+| [0746-min-cost-climbing-stairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0931-minimum-falling-path-sum) |
 | [1340-jump-game-v](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1340-jump-game-v) |
