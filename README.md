@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0931-minimum-falling-path-sum) |
