@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0435-non-overlapping-intervals) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1041,4 +1044,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
