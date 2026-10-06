@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0205-isomorphic-strings) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0162-find-peak-element) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0213-house-robber-ii) |
@@ -968,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bucket Sort
 |  |
@@ -1033,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
 ## Quicksort
 |  |
 | ------- |
@@ -1052,4 +1058,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
