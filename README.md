@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0493-reverse-pairs) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0410-split-array-largest-sum) |
@@ -1062,4 +1065,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
