@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2540-minimum-common-value](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2549-count-distinct-numbers-on-board) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
