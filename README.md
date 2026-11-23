@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1154-day-of-the-year) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1486-xor-operation-in-an-array) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1732-find-the-highest-altitude) |
@@ -1042,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -1070,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/DhruvTambekar24/DSA-Daily/tree/master/1352-product-of-the-last-k-numbers) |
 ## Counting Sort
 |  |
 | ------- |
